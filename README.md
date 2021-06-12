@@ -1,5 +1,7 @@
 # Python copy files from one location to another
 
+Simple Three Lines of code helps to Transfer Large Amount of Data From One Local Drive location to Another. 
+
                                                  Python shutil.copy()method:
 
    The shutil.copy() method in Python is used to copy the files or directories from the source to the destination. The source must represent the file, and the destination may be a file or directory.
