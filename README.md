@@ -1,4 +1,10 @@
-# Copy-file-to-folder-Python
+# Python copy files from one location to another
+
+      Python shutil.copy()method:
+
+   The shutil.copy() method in Python is used to copy the files or directories from the source to the destination. The source must represent the file, and the destination may be a file or directory.
+
+This function provides collection and operations on the files it also helps in the copying and removal of files and directories.
 
 
 In this example, I have imported two modules called shutil, and os this module helps in automating the process of copying and removing files and directories.
